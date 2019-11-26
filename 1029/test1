@@ -1,0 +1,6 @@
+#!/bin/bash
+#This script displays the date and time
+echo The date is :
+date
+echo "Let's time too"
+time
